@@ -1,0 +1,9 @@
+{
+  "incubationHours" : "56",
+  "init_infected_num" : "10",
+  "pInfection" : "0.050",
+  "pFastSIRInfection" : "0.00001",
+  "pEpiFastInfection" : "0.0001",
+  "fastSIRThreshold" : "0.9",
+  "pAcqtInfection" : "0.0"
+  }

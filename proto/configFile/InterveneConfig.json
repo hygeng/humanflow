@@ -1,0 +1,8 @@
+{
+  "quarantineHours" : "5",
+  "confineHours" : "5",
+  "isolateHours" : "5",
+  "treatHours" : "5",
+  "fastTraceContact" : "True",
+  "traceContactOrder" : "1"
+}

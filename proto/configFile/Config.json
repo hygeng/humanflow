@@ -1,0 +1,19 @@
+{
+   "hoursPerDay":   "14",
+   "stepToTrack" :  "28",
+   "followMallProb" : "0.5",
+   "followTimeProb" :  "0.5",
+   "followContactProb" : "1.0",
+   "isTraceTrajectory" :  "True",
+   "numContactPerMan"  :  "1000",
+   "isTraceContact":  "false",
+      "manNum":  "999",
+      "locNum": "99",
+      "houseLocNum": "33",
+      "workLocNum": "33",
+      "mallLocNum": "33",
+   "isSetIntervention":  "false",
+   "OVERLAP_RATIO":  "0.0",
+   "startIdx": "3",
+   "acqtGroupNum" : "2"
+}
